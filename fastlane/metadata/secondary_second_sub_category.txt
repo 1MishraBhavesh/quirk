@@ -1,1 +1,3 @@
 
+
+Changed the style of Header in Component ui.tsx  file.
